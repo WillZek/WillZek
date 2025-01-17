@@ -9,6 +9,9 @@ ___
 <a 
 href="https://github.com/WillZek"><img src="https://cardivo.vercel.app/api?name=WillZek&description=Hola+Soy+WillZek.+Creador+de+CrowBot.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=pina_dzn&whatsapp=WillZek&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
+[![Botoncito🥵](https://img.shields.io/badge/REPOSITORIO_OFICIAL_DE_CROWBOT💛-333522?style=for-the-badge&logo=github&logoColor=yellow)](https://github.com/WillZek/CrowBot-ST)
+
+
 ___
 
 ## 🌟 **`WILLZEK-OFC`**
