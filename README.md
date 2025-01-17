@@ -13,7 +13,8 @@ ___
 
 ## 🌟 **`WILLZEK-OFC`**
 
-![Menú Principal](https://qu.ax/NoDdH.jpg)
+![WillZek](https://github.com/WillZek.png)
+
 
 
 ### **`CONTACTOS`** 👇💛
