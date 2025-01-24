@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
 
-![Animacion](./WillZek.svg)
+![Animacion](./WillZek.sg)
 
 ### **`BIENVENIDOS A MI PERFIL`**
 
