@@ -59,7 +59,7 @@ ___
 
 
 <p align="center">
-<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a>
+<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a
 ___
 
 > **`Powered By`** **[WillZek](https:wa.me/50557865603?text=hola+vengo+de+tu+perfil+de+github+🌠👑) 🌠👑**.
