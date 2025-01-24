@@ -31,9 +31,6 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_dzn)
 [![tiktok](https://img.shields.io/badge/tiktok-0029V?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@the_crow_legendario_bs?_t=8pyjAicoTcE&_r=1)
 
-<p align="center">
-<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a>
-
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
 
 <a href="https://wa.me/5492945409599?text=.menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -60,6 +57,9 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-Ai&theme=ambient_gradient)</a>
 
+
+<p align="center">
+<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a>
 ___
 
 > **`Powered By`** **[WillZek](https:wa.me/50557865603?text=hola+vengo+de+tu+perfil+de+github+🌠👑) 🌠👑**.
