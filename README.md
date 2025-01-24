@@ -61,6 +61,13 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-Ai&theme=ambient_gradient)</a>
 
+## Donar Para Mantener Los Proyectos 
+
+<a
+href="ninopina10@gmail.com" target="Black"><img
+src="https://img.shields.io/badge/PayPal-FFFFFF?style=for-the-badge&logo=paypal&logoColor=white" />
+
+
 ___
 
 > **`Powered By`** **[WillZek](https:wa.me/50557865603?text=hola+vengo+de+tu+perfil+de+github+🌠👑) 🌠👑**.
