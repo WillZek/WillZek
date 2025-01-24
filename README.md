@@ -4,6 +4,10 @@
 
 > **Soy un Desarrollador Principiante De Bots De WhatsApp 🌠.**
 
+
+<p align="center">
+<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a
+
 ___
 
 <a 
@@ -57,9 +61,6 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-Ai&theme=ambient_gradient)</a>
 
-
-<p align="center">
-<a href="https://github.com/WillZek/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/WillZek?color=Blue&style=flat-square"></a
 ___
 
 > **`Powered By`** **[WillZek](https:wa.me/50557865603?text=hola+vengo+de+tu+perfil+de+github+🌠👑) 🌠👑**.
