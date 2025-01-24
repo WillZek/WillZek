@@ -65,7 +65,7 @@ ___
 
 <a
 href="ninopina10@gmail.com" target="Black"><img
-src="https://img.shields.io/badge/PayPal-FFFFFF?style=for-the-badge&logo=paypal&logoColor=white" />
+src="https://img.shields.io/badge/PayPal-1877F2?style=for-the-badge&logo=paypal&logoColor=white" />
 
 
 ___
