@@ -2,8 +2,6 @@
 
 ![Animacion](./WillZek.svg)
 
-### **`BIENVENIDOS A MI PERFIL`**
-
 > **Soy un Desarrollador Principiante De Bots De WhatsApp 🌠.**
 
 ___
