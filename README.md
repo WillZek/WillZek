@@ -59,7 +59,7 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-ST&theme=ambient_gradient)</a>
 
-<a href="https://github.com/WillZek/CrowBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-Ai&theme=ambient_gradient)</a>
+> [**`CROWBOT-ST \ ARCHIVOS`**](https://github.com/WillZek/CrowBot-ST/archive/refs/heads/master.zip)
 
 ## Donar Para Mantener Los Proyectos 
 
